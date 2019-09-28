@@ -1,0 +1,5 @@
+The data could not be uploaded here, as it is more than 25MB.
+
+It can be downloaded from the link below:
+
+https://www.kaggle.com/wkirgsn/electric-motor-temperature
