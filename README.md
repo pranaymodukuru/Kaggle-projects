@@ -23,3 +23,5 @@ A data analysis project to study performance of students in maths, reading and w
 
 #### Linear Regression Dataset - [Kaggle](https://www.kaggle.com/pranaymns/basic-linear-regression)
 A very simple guide on how to approach any ML problem.
+
+### Leave an upvote on Kaggle notebooks if you like them!
